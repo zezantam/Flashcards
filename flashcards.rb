@@ -6,3 +6,5 @@ puts "Welcome to Flashcards, built to test knowledge of Ruby. To play, simply en
 puts ""
 
 puts "Hello, I am Zezan"
+
+puts "Yar har"
